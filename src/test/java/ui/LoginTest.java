@@ -32,7 +32,7 @@ public class LoginTest extends BaseTest {
 
 	}
 
- // Adding comment to check git hub integration with Jenkins
+ // Removing Comment
 
 //		String parentwindow = driver.getWindowHandle();
 //		System.out.println(parentwindow);	
